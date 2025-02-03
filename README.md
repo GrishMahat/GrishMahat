@@ -26,10 +26,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
   <a href="https://blog.grish.me/">
     <img src="https://img.shields.io/badge/Blog-%23FF5722.svg?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:girsh@nory.tech">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
