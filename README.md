@@ -20,7 +20,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.nory.tech/">
+  <a href="https://grish.me/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
   <a href="https://blog.grish.me/">
