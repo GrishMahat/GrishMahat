@@ -79,19 +79,4 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/GrishMahat">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrishMahat&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishMahat&layout=compact&theme=dark" alt="Top Languages"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrishMahat&theme=dark" alt="GitHub Streak"/>
-</p>
-
----
-
 ⭐️ From [GrishMahat](https://github.com/GrishMahat)
