@@ -92,11 +92,6 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GrishMahat&theme=dark" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GrishMahat&theme=onedark&no-frame=true&row=1&margin-w=20" alt="Trophies"/>
-</p>
-
-
 ---
 
 ⭐️ From [GrishMahat](https://github.com/GrishMahat)
