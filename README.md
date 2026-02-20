@@ -1,47 +1,41 @@
-# **Hi 👋 I'm Grish**
+# Hey, I'm Grish 👋
 
-### **Systems-minded developer who cares about how things actually work**
+Started in 2022. Couldn't stop. Still haven't.
 
-I build things from the inside out. I like digging into system behavior, understanding internals, and making software faster and cleaner.
-If performance matters, I’m interested.
-If it involves ten layers of YAML summoning circles, I mysteriously vanish.
+Got into programming because I wanted to make a game. Never made the game. Accidentally learned how computers work instead. Honestly a fair trade.
 
----
+From there I just kept going deeper 
+That rabbit hole led me to systems programming, low-level behavior, and eventually Rust, which I fell in love with for exactly the reason people say it's painful: it forces you to think.
 
-## **What I’m into**
-
-* System-level problems
-* Performance and low-level behavior
-* How runtimes, kernels, and tools actually work
-* Solving bugs that shouldn’t exist, but somehow do
+Then a few months ago, Java clicked. And I mean *clicked*. After spending time thinking about memory and ownership and what the machine is doing, Java's verbosity stopped feeling like noise and started feeling like honesty. Every layer tells you what it's doing. Nothing hides. I respect that.
 
 ---
 
-## **Tech I actually use**
+## What I actually care about
 
-### **Core**
-
-* **Rust** when I don’t feel like apologizing to the CPU
-* **Go** when I want concurrency without philosophical trauma
-* **TypeScript / JavaScript (Bun)** when speed of development beats purity
-
-### **Familiar**
-
-* Python, Node, Linux tooling
-* Mobile stuff when the universe forces it
+- Understanding what's happening one level below where most people look
+- Performance — not as an obsession, but as a standard
+- Code that's predictable, not clever
+- Tooling that respects your time
 
 ---
 
-## **How I think about engineering**
+## Tech I use
 
-Good code is predictable.
-Magic belongs in card tricks, not in frameworks hiding a hundred things “for convenience.”
-If I can’t understand what the machine is actually doing, I don’t trust the result.
+**Reach for first:**
+Rust · Java · Go · TypeScript (Bun)
+
+**Comfortable with:**
+Python · Node · Linux tooling
+
+
+
+## Right now
+
+- Getting deeper into the Java ecosystem and actually enjoying it
+- Writing Rust that I'm not embarrassed by
+- Learning system internals well enough to break fewer things
 
 ---
 
-## **What I’m improving right now**
-
-* Writing cleaner, lower-level Rust
-* Understanding system internals deeply enough to break fewer things
-* Building tools that don’t trade speed for convenience
+*4 years in. Still the most interesting thing I've found.*
